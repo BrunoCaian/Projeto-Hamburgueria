@@ -1,0 +1,8 @@
+{
+    "auto-run-command.commands": [
+      {
+        "match": ".*",
+        "command": "npm run build:css"
+      }
+    ]
+  }

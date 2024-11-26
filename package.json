@@ -1,0 +1,15 @@
+{
+  "name": "cardapio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "licence": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
